@@ -16,7 +16,7 @@
     "postcss-px-to-viewport": "^1.1.1",
     "postcss-viewport-units": "^0.1.6",
     "postcss-write-svg": "^3.0.1",
-    "vant": "^2.6.1",
+    "vant": "^2.6.2",
     "viewport-units-buggyfill": "^0.6.2",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
